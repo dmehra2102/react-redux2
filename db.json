@@ -1,0 +1,19 @@
+{
+  "todolist": [
+    {
+      "title": "Do Assignment",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "learn javascript",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "learn Vue",
+      "status": false,
+      "id": 3
+    }
+  ]
+}
